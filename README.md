@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏫 I am a student from Guangxi Normal University Software College.
+🏫 I am a student from Guangxi Normal University.
 
 💬 Contact me:
 - [Telegram](https://t.me/universoar_hax)
