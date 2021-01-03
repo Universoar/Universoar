@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🏫 I am a student from Guangxi Normal University Software College.
+
+💬 Contact me:
+- [Telegram](https://t.me/universoar_hax)
+
 <!--
 **Universoar/Universoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
