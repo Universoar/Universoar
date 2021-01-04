@@ -1,8 +1,7 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Universoar&theme=dracula&show_icons=true"/>
 ### Hi there 👋
 
 🏫 I am a student from Guangxi Normal University.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true"/>
 
 💬 Contact me:
 - [Telegram](https://t.me/universoar_hax)
