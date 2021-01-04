@@ -4,8 +4,6 @@
 
 🏫 I am a student from Guangxi Normal University.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=universoar&show_icons=true&theme=dracula)" />
-
 ---
 
 💬 Contact me:
