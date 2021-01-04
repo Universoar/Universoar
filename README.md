@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Universoar&theme=dracula&show_icons=true"/>
 🏫 I am a student from Guangxi Normal University.
 
 💬 Contact me:
@@ -8,6 +7,8 @@
 
 <!--
 **Universoar/Universoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Universoar&theme=dracula&show_icons=true"/>
 
 Here are some ideas to get you started:
 
