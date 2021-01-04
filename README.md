@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🏫 I am a student from Guangxi Normal University.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true"/>
+
 💬 Contact me:
 - [Telegram](https://t.me/universoar_hax)
 
