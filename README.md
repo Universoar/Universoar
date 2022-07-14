@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏫 I am a student from Guangxi Normal University.
+- I`m learning C++ and Rust.
 
 💬 Contact me:
 - [Telegram](https://t.me/universoar_hax)
