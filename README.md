@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - I`m learning C++ and Rust.
-
+<!--
 💬 Contact me:
 - [Telegram](https://t.me/universoar_hax)
-
+-->
 <!--
 **Universoar/Universoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
